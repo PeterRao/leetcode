@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-js",
+  "version": "1.0.0",
+  "description": "LeetCode JavaScript",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.4.5"
+  }
+}
