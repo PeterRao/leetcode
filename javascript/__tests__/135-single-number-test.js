@@ -1,4 +1,4 @@
-jest.dontMock('../135-single-number/135-single-number.js');
+jest.dontMock('../src/135-single-number.js');
 
 describe('Single Number', function() {
     var singleNumber = require('../135-single-number/135-single-number.js');
